@@ -1,0 +1,22 @@
+{
+  "name": "ronaldo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamdi-ost/portfolio2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamdi-ost/portfolio2020/issues"
+  },
+  "homepage": "https://github.com/Hamdi-ost/portfolio2020#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
